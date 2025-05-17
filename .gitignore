@@ -45,3 +45,4 @@ typings
 !.vscode/launch.json
 .history/*
 .aws/credentials
+.aws/
